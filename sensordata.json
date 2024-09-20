@@ -1,0 +1,10 @@
+{
+    "temperature_c": 22.0,
+    "temperature_f": 71.6,
+    "humidity": 77.0,
+    "heat_index_c": 22.27,
+    "heat_index_f": 72.08,
+    "ldr_value": 510,
+    "lux": 498.0,
+    "distance_cm": 131.18
+}
